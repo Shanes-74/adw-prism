@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=adw-prism
+Comment=Material You dynamic theme for GTK
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=adw-prism
+MetacityTheme=adw-prism
+IconTheme=Adwaita
+CursorTheme=Adwaita
